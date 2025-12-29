@@ -1,0 +1,220 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "⚓",
+  "titre": "Évasion relaxante à Gdansk : Histoire et Balades au bord de la Baltique",
+  "budget_total": "1608 €",
+  "duree": "6 jours",
+  "date_debut": "2026-01-03",
+  "date_fin": "2026-01-09",
+  "temps_vol": "20h30 (avec escales depuis Berthelot peak, maurice)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée relaxante à Gdansk",
+      "legende": "Après un long voyage, installez-vous en douceur dans cette ville historique. Une première balade légère vous permettra de vous imprégner de l'atmosphère unique de la vieille ville, sans précipitation.",
+      "lieu": "Gdansk",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Gdansk (GDN)</strong>: Atterrissage et récupération des bagages après votre vol depuis Maurice.",
+        "🚖 <strong>Transfert et installation à l'hôtel</strong>: Rejoignez votre hébergement pour déposer vos affaires et vous rafraîchir.",
+        "🚶‍♂️ <strong>Première balade douce dans le centre historique</strong>: Une promenade légère pour découvrir les environs immédiats de votre hôtel et l'ambiance de la vieille ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet depuis Maurice est long. Prévoyez une journée d'arrivée très légère pour vous reposer et vous acclimater au décalage horaire."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Utilisez les applications de transport comme Bolt ou Free Now pour des taxis abordables depuis l'aéroport vers le centre-ville."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Immersion dans la Vieille Ville",
+      "legende": "Découvrez le cœur battant de Gdansk avec ses façades colorées et son histoire riche. Flânez le long du Long Marché, admirez la Fontaine de Neptune et explorez les trésors d'ambre de la ville.",
+      "lieu": "Gdansk",
+      "activites": [
+        "🏛️ <strong>Long Marché et Fontaine de Neptune</strong>: Promenez-vous sur la rue principale bordée de maisons colorées et admirez la célèbre statue du dieu des mers, symbole de Gdansk.",
+        "💎 <strong>Musée de l'Ambre</strong>: Plongez dans l'histoire fascinante de l'or de la Baltique, de sa formation à son utilisation artistique et joaillière.",
+        "🚶‍♀️ <strong>Balade le long de la Motlawa</strong>: Profitez d'une promenade paisible le long de la rivière, avec vue sur la Grue Médiévale et les bateaux amarrés."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Suggestion culinaire",
+          "texte": "Goûtez aux pierogi, ces délicieux raviolis polonais, dans un restaurant traditionnel du Long Marché pour une expérience authentique."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🕊️",
+      "titre": "Histoire et Sérénité Maritime",
+      "legende": "Explorez des lieux emblématiques qui ont marqué l'histoire moderne de la Pologne, puis trouvez la quiétude au bord de la mer Baltique. Une journée entre réflexion et air marin.",
+      "lieu": "Gdansk",
+      "activites": [
+        "🕊️ <strong>Centre Européen de la Solidarité</strong>: Visitez ce musée moderne et émouvant dédié au mouvement Solidarność et à la chute du communisme en Europe de l'Est.",
+        "🚢 <strong>Excursion à Westerplatte</strong>: Prenez un bateau ou un bus pour ce site historique où la Seconde Guerre mondiale a débuté, et profitez d'une balade contemplative sur ce lieu de mémoire.",
+        "☕ <strong>Pause détente au bord de l'eau</strong>: Savourez un café ou un thé chaud dans un café avec vue sur la Motlawa après votre retour du site historique."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Conseil",
+          "texte": "Westerplatte est un site étendu avec plusieurs monuments, prévoyez de bonnes chaussures pour la marche et des vêtements chauds en janvier."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌳",
+      "titre": "Verdure et Harmonie Musicale",
+      "legende": "Échappez à l'agitation urbaine pour une parenthèse de verdure et de culture. Le parc d'Oliwa offre une oasis de calme, tandis que sa cathédrale résonne de mélodies apaisantes.",
+      "lieu": "Oliwa (Gdansk)",
+      "activites": [
+        "🌳 <strong>Parc Oliwski et Palais de l'Abbé</strong>: Flânez dans ce magnifique parc paysager, un havre de paix idéal pour une promenade relaxante et admirer la nature hivernale.",
+        "⛪ <strong>Cathédrale d'Oliwa</strong>: Admirez l'architecture baroque de cette cathédrale et, si possible, assistez à un concert d'orgue pour une expérience sonore unique et apaisante.",
+        "🍰 <strong>Goûter polonais</strong>: Dégustez une pâtisserie locale et un café dans un salon de thé cosy à Oliwa, pour une pause gourmande et chaleureuse."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Oliwa est facilement accessible depuis le centre de Gdansk en tram ou en bus, le trajet dure environ 20 à 30 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🌊",
+      "titre": "Évasion Balnéaire à Sopot",
+      "legende": "Changez d'air avec une escapade vers la charmante station balnéaire de Sopot. Profitez de l'air frais de la mer Baltique et d'une promenade revigorante sur la plus longue jetée en bois d'Europe.",
+      "lieu": "Sopot",
+      "activites": [
+        "🚆 <strong>Trajet en SKM vers Sopot</strong>: Prenez le train de banlieue pour un court et agréable voyage le long de la côte, reliant Gdansk à Sopot.",
+        "🌊 <strong>Promenade sur la Jetée de Sopot (Molo)</strong>: Marchez sur cette jetée emblématique, respirez l'air marin vivifiant et admirez la vue sur la mer Baltique gelée ou agitée.",
+        "🛍️ <strong>Flânerie sur Ulica Monte Cassino</strong>: Explorez la rue piétonne animée de Sopot, avec ses boutiques, ses cafés et son architecture unique comme la Maison Tordue."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🥶",
+          "titre": "Météo",
+          "texte": "En janvier, Sopot peut être venteuse et froide. Habillez-vous très chaudement pour profiter pleinement de la promenade sur la jetée et au bord de la mer."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🛍️",
+      "titre": "Derniers instants et Douceurs",
+      "legende": "Profitez de cette dernière journée pour revisiter vos lieux préférés, faire quelques emplettes de souvenirs ou simplement vous détendre dans l'ambiance chaleureuse de Gdansk avant le départ.",
+      "lieu": "Gdansk",
+      "activites": [
+        "🎁 <strong>Achats de souvenirs</strong>: Trouvez les derniers cadeaux ou objets d'artisanat local, notamment de l'ambre, dans les petites boutiques de la Vieille Ville.",
+        "☕ <strong>Café et lecture</strong>: Détendez-vous dans un café cosy, savourez une boisson chaude et repensez aux moments forts de votre voyage.",
+        "🍽️ <strong>Dîner d'adieu</strong>: Offrez-vous un dernier repas mémorable dans un restaurant typique de Gdansk, pour clore votre séjour en beauté."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Préparation",
+          "texte": "Vérifiez les horaires de votre vol et préparez vos bagages pour un départ serein le lendemain, en tenant compte du long trajet retour."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 788 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 60 €/pers (transports en commun, transferts aéroport)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 270 €/pers (45 €/jour pour 6 jours, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 420 €/pers (70 €/nuit pour 6 nuits, hôtel 3*)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 70 €/pers (musées, jetée de Sopot)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "En janvier, les températures sont froides (souvent négatives) avec possibilité de neige. Prévoyez des vêtements très chauds, gants, bonnets et chaussures imperméables. Les journées sont courtes.",
+      "symbole": "❄️"
+    },
+    {
+      "titre": "La monnaie est le Zloty polonais (PLN). Les cartes de crédit sont largement acceptées. Il est utile d'avoir un peu de liquide pour les petits commerces ou marchés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le polonais est la langue officielle. L'anglais est bien compris dans les zones touristiques, les hôtels et les restaurants, facilitant la communication.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Le réseau de transports en commun (trams, bus, train SKM) est excellent et abordable à Gdansk et dans la Tricité (Gdansk, Sopot, Gdynia).",
+      "symbole": "🚌"
+    },
+    {
+      "titre": "Les prises électriques sont de type E (deux broches rondes), 230V. Un adaptateur universel peut être utile si vous venez de Maurice.",
+      "symbole": "🔌"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/MRU-GDN/2026-01-03/2026-01-09",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Gdansk",
+      "url": "https://www.gdansk.pl/en/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports",
+      "titre": "ZTM Gdansk",
+      "url": "https://ztm.gda.pl/en/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Pologne",
+      "url": "https://www.accuweather.com/fr/pl/gdansk/273347/weather-forecast/273347",
+      "symbole": "🌤️"
+    }
+  ]
+}
